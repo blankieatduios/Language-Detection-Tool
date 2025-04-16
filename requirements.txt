@@ -1,0 +1,4 @@
+langdetect==1.0.9
+spacy==3.7.2
+textblob==0.17.1
+googletrans==4.0.0-rc1
